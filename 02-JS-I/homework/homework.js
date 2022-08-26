@@ -244,7 +244,7 @@ function esVocal(letra){
   return "Dato incorrecto"
 
 }
-
+// nuevo comentario agregado, para practicar el git status
 
 
 
